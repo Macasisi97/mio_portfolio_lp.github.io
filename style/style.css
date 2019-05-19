@@ -260,6 +260,7 @@ section {
   -ms-flex-wrap: wrap;
       flex-wrap: wrap;
   list-style-type: none;
+  justify-content: center;
 }
 
 .price__item {
